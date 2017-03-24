@@ -30,7 +30,7 @@ namespace SimpleMVVM.ModelViews
             var person = new Person
             {
                 Name = "Devlin Duldulao",
-                Phone = "0997 724 1599",
+                Phone = "0997 0921 675",
                 Email = "devlin@xamarinforms.com",
                 Hometown = "Q.C.",
                 Gender = true
